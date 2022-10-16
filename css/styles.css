@@ -224,7 +224,8 @@ body {
   display: flex;
   max-width: 992px;
   align-items: center;
-  justify-content: center;
+  justify-content: space-between;
+  margin: auto;
 }
 .sec-onboarding .steps .step-separator {
   flex: 1;
